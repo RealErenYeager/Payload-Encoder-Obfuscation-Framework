@@ -42,27 +42,10 @@ This framework simulates that behavior in a **controlled environment** by:
   - String splitting & concatenation  
   - Hex escape sequence obfuscation  
 
-- ✅ User-controlled execution via CLI  
 - ✅ Multi-layer encoding support  
 - ✅ Signature-based detection simulation  
 - ✅ Automatic report generation (saved to file)
 
----
 
 
----
-
-## ▶️ How It Works (High-Level)
-
-Input Payload
-↓
-Apply Encoder(s)
-↓
-Apply Obfuscation
-↓
-Run Signature Detection
-↓
-Compare Results
-↓
-Generate Report
 
